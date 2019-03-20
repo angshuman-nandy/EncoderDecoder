@@ -1,3 +1,3 @@
 # EncoderDecoder
 
-basic Caesar cipher encoder decoder using python
+Basic Caesar Cipher encoder decoder using python
